@@ -26,5 +26,5 @@ At the end of this workshop, you will be able to:
 
 ## Resources
 <p>In depth <a href="https://ladal.edu.au/corplingr.html" target="_blank">tutorial</a> with data from a children language aquisition dataset.</p>
-<p></p><a href="https://cran.r-project.org/web/packages/koRpus/vignettes/koRpus_vignette.html" target="_blank">koRpus vignette</a>.</p>
-<p></p><a href="https://irhuru.github.io/blog/korpus-peterpan/" target="_blank">Example of using koRpus</a> with the text from Peter Pan.</p>
+<p><a href="https://cran.r-project.org/web/packages/koRpus/vignettes/koRpus_vignette.html" target="_blank">koRpus vignette</a>.</p>
+<p><a href="https://irhuru.github.io/blog/korpus-peterpan/" target="_blank">Example of using koRpus</a> with the text from Peter Pan.</p>
